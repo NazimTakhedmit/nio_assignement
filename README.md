@@ -25,5 +25,8 @@ the proposed solution has the following files:
 
 ###### HOW TO RUN THE PIPELINE
 
-after cloning this reposiory. open 'ML_pipeline.ipynb' notebook in google colab, use the notebook ML Pipeline and run all the commands
-PS: please upload also the file 'Seattle_Real_Time_Fire_911_Calls.csv' from your computer in the folder 'nio_assignement'
+- clone the repository into a folder 
+- Open google colab -> File -> upload notebook -> choose ML_pipeline.ipynb notebook 
+- google colab -> Runtime -> Run all 
+- While running the notebook each part will display log messages regarding training, validation, and testing.
+- Done! 
