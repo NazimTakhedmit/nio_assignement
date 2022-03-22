@@ -2,7 +2,7 @@
 
 ### Requirements 
 
-please clone this repository in google colab, so that no additional installation will be required 
+please clone this repository in google colab
 
 
 ### Challenge solution
@@ -24,3 +24,7 @@ the proposed solution has the following files:
   data preprocessing (using feature_engineering.py) => training (using train.py and model.py) => testing (using test.py) => plotting the results
   
   Since the problem is of regression type the metrics that have been used to validate and evaluate the model are: RMSE (root mean squared error) and MAE (mean absolute error).
+
+###### HOW TO RUN THE PIPELINE
+
+after cloning this reposiory in google colab, open the notebook ML Pipeline and run all the commands
