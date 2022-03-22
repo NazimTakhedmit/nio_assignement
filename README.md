@@ -25,4 +25,4 @@ the proposed solution has the following files:
 
 ###### HOW TO RUN THE PIPELINE
 
-after cloning this reposiory in google colab, use the notebook ML Pipeline and run all the commands
+after cloning this reposiory. open 'ML_pipeline.ipynb' notebook in google colab, use the notebook ML Pipeline and run all the commands
