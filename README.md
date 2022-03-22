@@ -1,10 +1,5 @@
 # nio_assignement
 
-### Requirements 
-
-please clone this repository in google colab
-
-
 ### Challenge solution
 
 the proposed solution has the following files: 
@@ -26,7 +21,7 @@ the proposed solution has the following files:
 ###### HOW TO RUN THE PIPELINE
 
 - clone the repository into a folder 
-- Open google colab -> File -> upload notebook -> choose ML_pipeline.ipynb notebook 
+- Open Google colab -> File -> upload notebook -> choose ML_pipeline.ipynb notebook 
 - google colab -> Runtime -> Run all 
 - While running the notebook each part will display log messages regarding training, validation, and testing.
 - Done! 
