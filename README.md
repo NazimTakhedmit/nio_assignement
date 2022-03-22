@@ -14,7 +14,7 @@ the proposed solution has the following files:
   - model.py: this file contains the architecture of the used model (boosted decision trees)
 
   - train.py: this file uses the model contained by the file model.py to perform the training, validation.
-  -
+  
   - support_functions.py: contains the methods to support the model (get_season) and the unit test is handled by the file test_tools.py
   
   - test.py: this file performs the testing of the model  
